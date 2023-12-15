@@ -1,0 +1,23 @@
+[33mcommit 4251415bd2c2959b109fbaf31dd5b0b76c7efd51[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: jsl202 <jsl202@naver.com>
+Date:   Fri Dec 15 13:20:24 2023 +0900
+
+    redux-actions
+
+[33mcommit 7f4a9a1cc2337f59297cde92c960c1284a5d56de[m
+Author: jsl202 <jsl202@naver.com>
+Date:   Fri Dec 15 12:59:01 2023 +0900
+
+    CounterComponent
+
+[33mcommit 1b0e1412ea3a247a9268bbf12e15db99b65daa85[m
+Author: jsl202 <jsl202@naver.com>
+Date:   Fri Dec 15 12:06:59 2023 +0900
+
+    UI, Redux
+
+[33mcommit 5c4026ed6013ff3bcbf7175fe02dbcf45c19b61e[m
+Author: jsl202 <jsl202@naver.com>
+Date:   Fri Dec 15 11:07:46 2023 +0900
+
+    Initialize project using Create React App
